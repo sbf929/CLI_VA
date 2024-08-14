@@ -1,0 +1,7 @@
+{"cmd": ["list the files in this directory"], 
+
+ "chatting": ["What's up?"],
+
+ "info": ["Can you tell me about Python?"], 
+
+ "tasks": ["Set a reminder at 10:20 pm."]}
